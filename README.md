@@ -1,2 +1,1 @@
-# RoRo
-RoRo MVP Repository
+docs: add project README
