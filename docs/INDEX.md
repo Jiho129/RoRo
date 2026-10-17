@@ -97,6 +97,7 @@ This index covers the archived RoRo project documents. GitHub is the canonical s
 - [DOC-032-P3-001-10-A](./ai/design-patterns/DOC-032-P3-001-10-A.md)
 - [DOC-032-P3-001-10-B](./ai/design-patterns/DOC-032-P3-001-10-B.md)
 - [DOC-032-P3-001-11](./ai/design-patterns/DOC-032-P3-001-11.md)
+- [DOC-032-P3-001-12](./ai/design-patterns/DOC-032-P3-001-12.md)
 
 ## Foundation
 
