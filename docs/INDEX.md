@@ -96,6 +96,7 @@ This index covers the archived RoRo project documents. GitHub is the canonical s
 - [_combined-notion-page-source](./ai/design-patterns/_combined-notion-page-source.md)
 - [DOC-032-P3-001-10-A](./ai/design-patterns/DOC-032-P3-001-10-A.md)
 - [DOC-032-P3-001-10-B](./ai/design-patterns/DOC-032-P3-001-10-B.md)
+- [DOC-032-P3-001-11](./ai/design-patterns/DOC-032-P3-001-11.md)
 
 ## Foundation
 
