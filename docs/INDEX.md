@@ -76,6 +76,10 @@ This index covers the archived RoRo project documents. GitHub is the canonical s
 - [brand-book-v1-0](./design/brand-book-v1-0.md)
 - [design-system-bible-v1-0](./design/design-system-bible-v1-0.md)
 
+## Engineering
+
+- [mvp-implementation-readiness](./engineering/mvp-implementation-readiness.md)
+
 ## AI
 
 - [memory-experience-bible-v1-0](./ai/memory-experience-bible-v1-0.md)
